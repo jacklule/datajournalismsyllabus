@@ -1,6 +1,7 @@
 ##Resources for Data Journalism Syllabi
 
 - An obvious starting point and even ending point might be [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/). An initiative of the European Journalism Centre and the Open Knowledge Foundation, it is published by O'Reilly Media and freely available in numerous languages online under Creative Commons Attribution-ShareAlike license.
+- A great post by Simon Rogers on [Can Data Journalism Be Taught?](http://simonrogers.net/2015/01/16/can-data-journalism-be-taught/), along with his [Data Journalism syllabus](http://simonrogers.github.io/datajournalism/).
 - Derek Willis can practice and teach data journalism. His Georgetown [Data Reporting syllabus](http://dwillis.github.io/data-reporting/).
 - Dan Nguyen's NYU [Data Journalism syllabus](http://www.smalldatajournalism.com/class/).
 - Matt Waite always does interesting work. Here is his [Data Journalism syllabus](https://github.com/mattwaite/JOUR407-Data-Journalism) and [Math for Beginning Reporters](https://github.com/mattwaite/MathForBeginningReporters), both at GitHub.
