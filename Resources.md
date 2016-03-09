@@ -7,7 +7,7 @@
 - Matt Waite always does interesting work. Here is his [Data Journalism syllabus](https://github.com/mattwaite/JOUR407-Data-Journalism) and [Math for Beginning Reporters](https://github.com/mattwaite/MathForBeginningReporters), both at GitHub.
 - Investigative Reporters & Editors (IRE) put together [a list of data journalism syllabi](https://ire.org/resource-center/educators-center/syllabi/), now a bit dated.
 - [Making Sense of Data](https://datasense.withgoogle.com/course). Google's course on preparing, analyzing and applying data.
-- A special issue of the academic journal, Journalism, was devoted to [Data and Statistics in Journalism and Journalism Education](http://jou.sagepub.com/content/17/1.toc)
+- A special issue of the academic journal, <i>Journalism</>, was devoted to [Data and Statistics in Journalism and Journalism Education](http://jou.sagepub.com/content/17/1.toc)
 - [Intro to Data Mashing and Map Making with Google Fusion](http://www.smalldatajournalism.com/projects/one-offs/mapping-with-fusion-tables/?utm_content=buffer8c5f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). Long tutorial by Dan Nguyen with explanation of working with data in Google spreadsheets.
 - [The Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide)
 
