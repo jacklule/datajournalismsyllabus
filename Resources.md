@@ -7,10 +7,24 @@
 - When he was with the Guardian, Simon Rogers narrated an exellent [History of Data Journalism at the Guardian](http://www.theguardian.com/news/datablog/video/2013/apr/04/history-of-data-journalism-video)
 - Derek Willis can practice and teach data journalism. His Georgetown [Data Reporting syllabus](http://dwillis.github.io/data-reporting/).
 - Dan Nguyen's NYU [Data Journalism syllabus](http://www.smalldatajournalism.com/class/).
+- Kevin Quealy, who does great work for the NY Times, also teaches [Data Journalism at NYU](http://kpq.github.io/sherp-31/)
 - Matt Waite always does interesting work. Here is his [Data Journalism syllabus](https://github.com/mattwaite/JOUR407-Data-Journalism) and [Math for Beginning Reporters](https://github.com/mattwaite/MathForBeginningReporters), both at GitHub.
 - Investigative Reporters & Editors (IRE) put together [a list of data journalism syllabi](https://ire.org/resource-center/educators-center/syllabi/), now a bit dated.
 - [Making Sense of Data](https://datasense.withgoogle.com/course). Google's course on preparing, analyzing and applying data.
 - A special 2016 issue of the academic journal, *Journalism*, was devoted to [Data and Statistics in Journalism and Journalism Education](http://jou.sagepub.com/content/17/1.toc)
 - [Intro to Data Mashing and Map Making with Google Fusion](http://www.smalldatajournalism.com/projects/one-offs/mapping-with-fusion-tables/?utm_content=buffer8c5f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). Long tutorial by Dan Nguyen with explanation of working with data in Google spreadsheets.
 - [The Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide)
+- <p>Some of the curriculum and material for this class was inspired or taken from other data journalism classes that have also posted their syllabuses online:</p>
+<ul>
+  <li><a href="http://www.jsvine.com/WRIT1-CE9741/syllabus/">Analytics and Data Visualization for Journalism, Fall 2013</a>, NYU-SCPS, with Jeremy Singer-Vine</li>
+  <li><a href="http://dwillis.github.io/data-reporting/outline.html">Data Reporting</a>, Georgetown University, with Derek Willis</li>
+  <li><a href="http://datadrivenjournalism.2013.journalism.cuny.edu/syllabus/">Data-Driven Journalism</a>, CUNY Graduate School of Journalism, with Russell Chun and Amanda Hickman</li>
+  <li><a href="https://files.nyu.edu/kq2/public/_content.html">Data Journalism at SHERP</a>, NYU, with Amanda Cox and Kevin Quealy.</li>
+  <li><a href="http://parklibrary.jomc.unc.edu/sites/parklibrary.jomc.unc.edu/files/491.7-Thornburg-Spring2013.pdf">JOMC 491.7: Data  Driven Journalism</a>, UNC, with Ryan Thornburg</li>
+  <li><a href="http://dherzog.com/car-class/syllabus/">Computer-Assisted Reporting, Fall 2013
+</a>, Mizzou, with David Herzog</li>
+  <li><a href="http://www.theinternetwon.com/syllabus/">Communication 217/117: Digital Journalism, Winter 2013</a>, Stanford, with R.B. Brenner</li>
+</ul>
+
+
 
