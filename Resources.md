@@ -14,7 +14,7 @@
 - A special 2016 issue of the academic journal, *Journalism*, was devoted to [Data and Statistics in Journalism and Journalism Education](http://jou.sagepub.com/content/17/1.toc)
 - [Intro to Data Mashing and Map Making with Google Fusion](http://www.smalldatajournalism.com/projects/one-offs/mapping-with-fusion-tables/?utm_content=buffer8c5f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). Long tutorial by Dan Nguyen with explanation of working with data in Google spreadsheets.
 - [The Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide)
-- <p>Some of the curriculum and material for this class was inspired or taken from other data journalism classes that have also posted their syllabuses online:</p>
+- Dan Nguyen put together his own list of data journalism classes that have also posted their syllabuses online:
 <ul>
   <li><a href="http://www.jsvine.com/WRIT1-CE9741/syllabus/">Analytics and Data Visualization for Journalism, Fall 2013</a>, NYU-SCPS, with Jeremy Singer-Vine</li>
   <li><a href="http://dwillis.github.io/data-reporting/outline.html">Data Reporting</a>, Georgetown University, with Derek Willis</li>
