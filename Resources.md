@@ -2,7 +2,9 @@
 
 - The American Press Institute has an excellent 2016 series, [Diving into Data Journalism: Strategies for getting started or going deeper](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/). A great quote from that series removes some of the mist and mystique: "There are two basic skills needed to get started as a data journalist: the ability to engage in **critical thinking** and **basic familiarity with spreadsheets**" -- sorting, filtering and basic math.
 - An obvious starting point -- and even ending point -- might be [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/). An initiative of the European Journalism Centre and the Open Knowledge Foundation, the handbook is published by O'Reilly Media and freely available in numerous languages online under Creative Commons Attribution-ShareAlike license.
+- MediaShift had an excellent series, [Teaching Data Journalism 2015](http://mediashift.org/2015/03/special-series-teaching-data-journalism-2015/)
 - A great post by Simon Rogers on [Can Data Journalism Be Taught?](http://simonrogers.net/2015/01/16/can-data-journalism-be-taught/), along with his [Data Journalism syllabus](http://simonrogers.github.io/datajournalism/).
+- When he was with the Guardian, Simon Rogers narrated an exellent [History of Data Journalism at the Guardian](http://www.theguardian.com/news/datablog/video/2013/apr/04/history-of-data-journalism-video)
 - Derek Willis can practice and teach data journalism. His Georgetown [Data Reporting syllabus](http://dwillis.github.io/data-reporting/).
 - Dan Nguyen's NYU [Data Journalism syllabus](http://www.smalldatajournalism.com/class/).
 - Matt Waite always does interesting work. Here is his [Data Journalism syllabus](https://github.com/mattwaite/JOUR407-Data-Journalism) and [Math for Beginning Reporters](https://github.com/mattwaite/MathForBeginningReporters), both at GitHub.
