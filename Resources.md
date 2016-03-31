@@ -1,8 +1,8 @@
 #For the Data Journalism Syllabus
 
-On this page:
--[Resources for Data Journalism Syllabi](#Resources-for-Data-Journalism-Syllabi)
--[Data Journalism Syllabi](#Data-Journalism-Syllabi)
+**On this page:**
+- [Resources for Data Journalism Syllabi](#Resources-for-Data-Journalism-Syllabi)
+- [Data Journalism Syllabi](#Data-Journalism-Syllabi)
 
 <a id="Resources-for-Data-Journalism-Syllabi"></a>
 ##Resources for Data Journalism Syllabi
