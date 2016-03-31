@@ -1,9 +1,8 @@
 #For the Data Journalism Syllabus
 
 On this page:
-[Resources for Data Journalism Syllabi](#Resources-for-Data-Journalism-Syllabi)
-
-[Data Journalism Syllabi](#Data-Journalism-Syllabi)
+-[Resources for Data Journalism Syllabi](#Resources-for-Data-Journalism-Syllabi)
+-[Data Journalism Syllabi](#Data-Journalism-Syllabi)
 
 <a id="Resources-for-Data-Journalism-Syllabi"></a>
 ##Resources for Data Journalism Syllabi
@@ -18,7 +17,7 @@ On this page:
 - [Intro to Data Mashing and Map Making with Google Fusion](http://www.smalldatajournalism.com/projects/one-offs/mapping-with-fusion-tables/?utm_content=buffer8c5f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). Long tutorial by Dan Nguyen with explanation of working with data in Google spreadsheets.
 - [The Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide)
 
-(<a id="Data-Journalism-Syllabi"></a>
+<a id="Data-Journalism-Syllabi"></a>
 ##Data Journalism Syllabi
 - A great post by Simon Rogers on [Can Data Journalism Be Taught?](http://simonrogers.net/2015/01/16/can-data-journalism-be-taught/), along with his [Data Journalism syllabus](http://simonrogers.github.io/datajournalism/).
 - Derek Willis can practice and teach data journalism. His Georgetown [Data Reporting syllabus](http://dwillis.github.io/data-reporting/).
