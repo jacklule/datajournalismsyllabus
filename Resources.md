@@ -7,10 +7,12 @@
 <a id="Resources-for-Data-Journalism-Syllabi"></a>
 ##Resources for Data Journalism Syllabi
 
+- [Data Driven Journalism](http://datadrivenjournalism.net/), "where journalism meets data"
 - The American Press Institute has an excellent 2016 series, [Diving into Data Journalism: Strategies for getting started or going deeper](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/). A great quote from that series removes some of the mist and mystique: "There are two basic skills needed to get started as a data journalist: the ability to engage in **critical thinking** and **basic familiarity with spreadsheets**" -- sorting, filtering and basic math.
 - An obvious starting point -- and even ending point -- might be [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/). An initiative of the European Journalism Centre and the Open Knowledge Foundation, the handbook is published by O'Reilly Media and freely available in numerous languages online under Creative Commons Attribution-ShareAlike license.
 - MediaShift had an excellent series, [Teaching Data Journalism 2015](http://mediashift.org/2015/03/special-series-teaching-data-journalism-2015/)
 - Journalist's Resource at Harvard's Shorenstein Center put together its own [list of Math for Journalists resources](http://journalistsresource.org/tip-sheets/research/journalistic-innumeracy-math-phobia-sequence-resources-to-sharpen-your-mind?utm_source=JR-email&utm_medium=email&utm_campaign=JR-email&utm_source=Journalist%27s+Resource&utm_campaign=94c49aa770-2015_Sept_1_A_B_split3_24_2015&utm_medium=email&utm_term=0_12d86b1d6a-94c49aa770-80019757)
+- [Data Journalism Awards 2016](http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/), the Global Editors Network
 - When he was with the Guardian, Simon Rogers narrated an exellent [History of Data Journalism at the Guardian](http://www.theguardian.com/news/datablog/video/2013/apr/04/history-of-data-journalism-video)
 - [Making Sense of Data](https://datasense.withgoogle.com/course). Google's course on preparing, analyzing and applying data.
 - A special 2016 issue of the academic journal, *Journalism*, was devoted to [Data and Statistics in Journalism and Journalism Education](http://jou.sagepub.com/content/17/1.toc)
