@@ -8,7 +8,7 @@
 ##Resources for Data Journalism Syllabi
 
 - [Data Driven Journalism](http://datadrivenjournalism.net/), "where journalism meets data"
-- 2016 repoort from Columbia and Stanford on [Teaching Data and Computational Journalism](https://www.gitbook.com/book/columbiajournalism/teaching-data-computational-journalism/details)
+- 2016 report from Columbia and Stanford on [Teaching Data and Computational Journalism](https://www.gitbook.com/book/columbiajournalism/teaching-data-computational-journalism/details), with model curricula
 - The American Press Institute has an excellent 2016 series, [Diving into Data Journalism: Strategies for getting started or going deeper](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/). A great quote from that series removes some of the mist and mystique: "There are two basic skills needed to get started as a data journalist: the ability to engage in **critical thinking** and **basic familiarity with spreadsheets**" -- sorting, filtering and basic math.
 - An obvious starting point -- and even ending point -- might be [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/). An initiative of the European Journalism Centre and the Open Knowledge Foundation, the handbook is published by O'Reilly Media and freely available in numerous languages online under Creative Commons Attribution-ShareAlike license.
 - MediaShift had an excellent series, [Teaching Data Journalism 2015](http://mediashift.org/2015/03/special-series-teaching-data-journalism-2015/)
