@@ -31,7 +31,7 @@
 - Matt Waite always does interesting work. Here is his [Data Journalism syllabus](https://github.com/mattwaite/JOUR407-Data-Journalism) and [Math for Beginning Reporters](https://github.com/mattwaite/MathForBeginningReporters), both at GitHub.
 - [Data=Stories Syllabus](http://cephillips.webfactional.com/blog/?page_id=1564)
 - Investigative Reporters & Editors (IRE) put together [a list of data journalism syllabi](https://ire.org/resource-center/educators-center/syllabi/), now a bit dated.
-- Dan Nguyen put together his own list of data journalism classes that have also posted their syllabuses online:
+- Dan Nguyen compiled his own list of data journalism classes that have also posted their syllabuses online:
 <ul>
   <li><a href="http://www.jsvine.com/WRIT1-CE9741/syllabus/">Analytics and Data Visualization for Journalism, Fall 2013</a>, NYU-SCPS, with Jeremy Singer-Vine</li>
   <li><a href="http://dwillis.github.io/data-reporting/outline.html">Data Reporting</a>, Georgetown University, with Derek Willis</li>
