@@ -26,7 +26,7 @@
 <a id="Data-Journalism-Syllabi"></a>
 ##Data Journalism Syllabi
 - A great post by Simon Rogers on [Can Data Journalism Be Taught?](http://simonrogers.net/2015/01/16/can-data-journalism-be-taught/), along with his [Data Journalism syllabus](http://simonrogers.github.io/datajournalism/).
-- Derek Willis can practice and teach data journalism. His Georgetown [Data Reporting syllabus](http://dwillis.github.io/data-reporting/).
+- Derek Willis moves around a bit but as of July 2016 was news app developer at ProPublica. He also teaches data journalism. His Georgetown [Data Reporting syllabus](http://dwillis.github.io/data-reporting/).
 - Dan Nguyen's NYU [Data Journalism syllabus](http://www.smalldatajournalism.com/class/).
 - Kevin Quealy, who does great work for the NY Times, also teaches [Data Journalism at NYU](http://kpq.github.io/sherp-31/)
 - Matt Waite always does interesting work. Here is his [Data Journalism syllabus](https://github.com/mattwaite/JOUR407-Data-Journalism) and [Math for Beginning Reporters](https://github.com/mattwaite/MathForBeginningReporters), both at GitHub.
