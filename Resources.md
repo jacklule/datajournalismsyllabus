@@ -26,6 +26,7 @@
 
 <a id="Data-Journalism-Syllabi"></a>
 ##Data Journalism Syllabi
+- Enrico Bertini page for teaching [Information and Visualization](http://enrico.bertini.io/teaching/)
 - A great post by Simon Rogers on [Can Data Journalism Be Taught?](http://simonrogers.net/2015/01/16/can-data-journalism-be-taught/), along with his [Data Journalism syllabus](http://simonrogers.github.io/datajournalism/).
 - Derek Willis moves around a bit but as of July 2016 was news app developer at ProPublica. He also teaches data journalism. His Georgetown [Data Reporting syllabus](http://dwillis.github.io/data-reporting/).
 - Dan Nguyen's NYU [Data Journalism syllabus](http://www.smalldatajournalism.com/class/).
